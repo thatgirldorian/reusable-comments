@@ -1,0 +1,21 @@
+iframe {
+  height: 0px !important;
+  width: 0px !important;
+}
+
+body {
+  margin-top: 60px;
+  background: white;
+}
+
+.ui.card {
+  margin-top: 60px !important;
+  margin-bottom: 1em !important;
+  border-top: 1px solid plum !important;
+}
+
+#root .ui.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
