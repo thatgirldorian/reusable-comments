@@ -1,3 +1,27 @@
+# Reusable Comments
+
+A reusable component containing a couple of comments that you can accept or delete. It's created with React JS, Semantic UI and the Faker library. 
+
+<h3>Technology used:</h3>
+
+- React
+- Semantic UI
+- Faker library
+- Vercel
+
+
+<h3>Link to site:</h3>
+https://reusable-comments.vercel.app/
+
+<h3>Screenshot:</h3>
+<img width="1143" alt="Screen Shot 2022-07-23 at 11 42 48 PM" src="https://user-images.githubusercontent.com/40691059/180620623-f793e0a4-74a9-4d8c-a010-b225f7257c13.png">
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
