@@ -48,6 +48,24 @@ const App = () => {
                           image= {faker.image.image()}
                           />
             </ApprovalCard>
+
+            <ApprovalCard>
+                  <CommentInfo 
+                          author="Lola" 
+                          date="4 days ago"
+                          text="Great post!"
+                          image= {faker.image.image()}
+                          />
+            </ApprovalCard>
+
+            <ApprovalCard>
+                  <CommentInfo 
+                          author="Josh" 
+                          date="6 days ago"
+                          text="I think there's a typo on line 12"
+                          image= {faker.image.image()}
+                          />
+            </ApprovalCard>
             
             
 
